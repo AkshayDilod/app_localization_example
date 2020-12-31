@@ -1,0 +1,27 @@
+{
+  "@@last_modified": "2020-12-31T14:33:35.270601",
+  "title": "आवेदन शीर्षक",
+  "@title": {
+    "description": "The title of the application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonText": "लॉग इन करें",
+  "@buttonText": {
+    "description": "The text on the Login button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hindiText": "हिंदी",
+  "@hindiText": {
+    "description": "The text on the hindiText",
+    "type": "text",
+    "placeholders": {}
+  },
+  "englishText": "अंग्रेज़ी",
+  "@englishText": {
+    "description": "The text on the englishText",
+    "type": "text",
+    "placeholders": {}
+  }
+}

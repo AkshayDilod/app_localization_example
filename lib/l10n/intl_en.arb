@@ -1,0 +1,27 @@
+{
+  "@@last_modified": "2020-12-31T14:33:35.270601",
+  "title": "Application Title",
+  "@title": {
+    "description": "The title of the application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonText": "Login",
+  "@buttonText": {
+    "description": "The text on the Login button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hindiText": "Hindi",
+  "@hindiText": {
+    "description": "The text on the hindiText",
+    "type": "text",
+    "placeholders": {}
+  },
+  "englishText": "English",
+  "@englishText": {
+    "description": "The text on the englishText",
+    "type": "text",
+    "placeholders": {}
+  }
+}
