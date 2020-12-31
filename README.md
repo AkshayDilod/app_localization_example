@@ -1,6 +1,9 @@
 # app_localization_example
+A flutter application supportes multiple languages. its work only android device because i run and check it for android only for IOS go to below link.
 
-A new Flutter project.
+first run 'flutter pub get'
+for more info
+https://flutter.dev/docs/development/accessibility-and-localization/internationalization
 
 ## Getting Started
 
